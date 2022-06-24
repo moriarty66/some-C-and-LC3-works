@@ -1,2 +1,2 @@
 # some-C-works
-C programming
+Mainly C programming
